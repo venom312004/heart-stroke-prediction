@@ -158,25 +158,6 @@ jupyter notebook
 ![Model Comparison](images/model_comparison.png)
 
 
-
----
-
-## 🖼️ Visual Insights
-
-### 📊 Target Variable Distribution
-![Target Distribution](images/target_distribution.png)
-
-### 📈 Feature Distribution
-![Feature Distribution](images/feature_distribution.png)
-
-### 🔥 Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
-
-### 📉 Model Comparison
-![Model Comparison](images/model_comparison.png)
-
-> ⚠️ Note: Make sure you create an `images` folder in your repo and save your plots with these names.
-
 ---
 
 ## 📌 Conclusion
