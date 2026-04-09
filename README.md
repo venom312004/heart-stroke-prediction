@@ -145,8 +145,8 @@ jupyter notebook
 
 ## 🖼️ Visual Insights
 
-### 📊 Heart Disease Distribution
-![Target Distribution](images/heartdisease_distribution.png)
+### 📊 cholesterol vs heartdisease
+![Target Distribution](images/cholesterol_vs_heartdisease.png)
 
 ### 📈 Feature Distribution
 ![Feature Distribution](images/chestpaintype_vs_heartdisease.png)
@@ -154,8 +154,8 @@ jupyter notebook
 ### 🔥 Correlation Heatmap
 ![Correlation Heatmap](images/corr_heatmap.png)
 
-### 📉 Model Comparison
-![Model Comparison](images/model_comparison.png)
+### 📉 Distribution plot
+![Model Comparison](images/age_cholesterol_maxhr_restingbp_distribution.png)
 
 
 ---
