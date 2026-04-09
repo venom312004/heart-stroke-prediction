@@ -146,7 +146,7 @@ jupyter notebook
 ## 🖼️ Visual Insights
 
 ### 📊 cholesterol vs heartdisease
-![Target Distribution](images/cholesterol_vs_heartdisease.png)
+![cholesterol vs heartdisease](images/cholesterol_vs_heartdisease.png)
 
 ### 📈 Feature Distribution
 ![Feature Distribution](images/chestpaintype_vs_heartdisease.png)
@@ -155,16 +155,16 @@ jupyter notebook
 ![Correlation Heatmap](images/corr_heatmap.png)
 
 ### 📉 Distribution plot
-![Model Comparison](images/age_cholesterol_maxhr_restingbp_distribution.png)
+![Distribution plot](images/age_cholesterol_maxhr_restingbp_distribution.png)
 
 ### 📸 API Interface
-![Correlation Heatmap](images/corr_heatmap.png)
+![API Interface](images/API_Interface.png)
 
-### 🌐 API High Risk Image
-![Correlation Heatmap](images/corr_heatmap.png)
+### 🌐 High Risk Heart Stock Image
+![High Risk Heart Stock Image](images/high_risk_heart_stock.png)
 
-### API Low Risk Image
-![Correlation Heatmap](images/corr_heatmap.png)
+### Low Risk Heart Stock Image
+![Low Risk Heart Stock Image](images/low_risk_heart_stock.png)
 
 ---
 
