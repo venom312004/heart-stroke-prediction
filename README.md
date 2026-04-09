@@ -106,7 +106,7 @@ This project aims to predict whether a person is likely to have heart disease ba
 ---
 
 ## 🛠️ Technologies Used
-- Python 🐍
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
