@@ -145,14 +145,14 @@ jupyter notebook
 
 ## 🖼️ Visual Insights
 
-### 📊 Target Variable Distribution
-![Target Distribution](images/target_distribution.png)
+### 📊 Heart Disease Distribution
+![Target Distribution](images/heartdisease_distribution.png)
 
 ### 📈 Feature Distribution
-![Feature Distribution](images/feature_distribution.png)
+![Feature Distribution](images/chestpaintype_vs_heartdisease.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](images/corr_heatmap.png)
 
 ### 📉 Model Comparison
 ![Model Comparison](images/model_comparison.png)
