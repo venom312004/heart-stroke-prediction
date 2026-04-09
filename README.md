@@ -157,6 +157,14 @@ jupyter notebook
 ### 📉 Distribution plot
 ![Model Comparison](images/age_cholesterol_maxhr_restingbp_distribution.png)
 
+### 📸 API Interface
+![Correlation Heatmap](images/corr_heatmap.png)
+
+### 🌐 API High Risk Image
+![Correlation Heatmap](images/corr_heatmap.png)
+
+### API Low Risk Image
+![Correlation Heatmap](images/corr_heatmap.png)
 
 ---
 
