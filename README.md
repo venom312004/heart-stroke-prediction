@@ -3,7 +3,7 @@
 ## 🧠 Project Overview
 This project aims to predict whether a person is likely to have heart disease based on various medical attributes. It uses data analysis, visualization, and machine learning techniques to build an accurate predictive model.
 
-🔗 **Live Demo:** [movie-recommendation-system-53su.onrender.com](https://heart-stroke-prediction-pranjal-pandey.streamlit.app/)
+🔗 **Live Demo:** [heart-stroke-prediction-pranjal-pandey.streamlit.app](https://heart-stroke-prediction-pranjal-pandey.streamlit.app/)
 
 ---
 
